@@ -1,0 +1,1311 @@
+{
+  "project": "s01-t01-what-is-entrepreneurship",
+  "presenter": "presenter_01",
+  "script_sha256": "809df2391f031cab47e748301bcbb7edb63a1079405a082ddd788b0eafbc505b",
+  "created": "2026-09-30T10:18:05",
+  "timings": {
+    "audio_generation_time": 36.7,
+    "video_generation_time": 0.0,
+    "render_time": 0.0
+  },
+  "scenes": [
+    {
+      "id": "scene_001",
+      "text": "Welcome to the first lesson of our entrepreneurship course. Today we begin with a simple but powerful question.",
+      "units": [
+        "Welcome to the first lesson of our entrepreneurship course.",
+        "Today we begin with a simple but powerful question."
+      ],
+      "estimated_duration": 6.92,
+      "actual_audio_duration": 6.92,
+      "visual_action": "The presenter greets the viewer with a warm, friendly smile and a small nod. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "welcome",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter greets the viewer with a warm, friendly smile and a small nod. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Welcome to the first lesson of our entrepreneurship course. Today we begin with a simple but powerful question.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_001.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "4e80fbae89a4f850c5d42a5eb18d6db98108e1847d5b07dc25de66ddf598edc6",
+      "audio_sha": "4e80fbae89a4f850c5d42a5eb18d6db98108e1847d5b07dc25de66ddf598edc6",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_002",
+      "text": "What is entrepreneurship? You have probably heard this word many times.",
+      "units": [
+        "What is entrepreneurship?",
+        "You have probably heard this word many times."
+      ],
+      "estimated_duration": 4.37,
+      "actual_audio_duration": 4.367,
+      "visual_action": "The presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "eye_contact",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"What is entrepreneurship? You have probably heard this word many times.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_002.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "f77e50065e32f7fe784d8567f89e9fc6cb7d5088d30092a8d35ea51b73fd123d",
+      "audio_sha": "f77e50065e32f7fe784d8567f89e9fc6cb7d5088d30092a8d35ea51b73fd123d",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_003",
+      "text": "It often brings to mind famous founders, big startups, and huge success stories.",
+      "units": [
+        "It often brings to mind famous founders, big startups, and huge success stories."
+      ],
+      "estimated_duration": 5.59,
+      "actual_audio_duration": 5.591,
+      "visual_action": "The presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "head_nod",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"It often brings to mind famous founders, big startups, and huge success stories.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_003.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "99b2171c1b5f418ac55db5c6069b814c47ad0a3b10b0ee3fc5995946f365e29c",
+      "audio_sha": "99b2171c1b5f418ac55db5c6069b814c47ad0a3b10b0ee3fc5995946f365e29c",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_004",
+      "text": "But entrepreneurship is much broader than that. And it is much closer to everyday life than most people think.",
+      "units": [
+        "But entrepreneurship is much broader than that.",
+        "And it is much closer to everyday life than most people think."
+      ],
+      "estimated_duration": 6.83,
+      "actual_audio_duration": 6.824,
+      "visual_action": "The presenter gestures gently with one hand then the other, as if comparing two ideas. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "contrast",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter gestures gently with one hand then the other, as if comparing two ideas. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"But entrepreneurship is much broader than that. And it is much closer to everyday life than most people think.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_004.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "707ce2eabfb350aad920324d7129013645d02cfd5763fc4ec8e9480390bd6cae",
+      "audio_sha": "707ce2eabfb350aad920324d7129013645d02cfd5763fc4ec8e9480390bd6cae",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_005",
+      "text": "Let's start with a clear definition.",
+      "units": [
+        "Let's start with a clear definition."
+      ],
+      "estimated_duration": 1.86,
+      "actual_audio_duration": 1.865,
+      "visual_action": "The presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "right_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Let's start with a clear definition.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_005.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "f91786d1bead0f33d06d3c839ab22db98db45e251005118a0994cb8155dff006",
+      "audio_sha": "f91786d1bead0f33d06d3c839ab22db98db45e251005118a0994cb8155dff006",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_006",
+      "text": "Entrepreneurship is the process of identifying a problem or an unmet need, and creating a solution that delivers value to people.",
+      "units": [
+        "Entrepreneurship is the process of identifying a problem or an unmet need, and creating a solution that delivers value to people."
+      ],
+      "estimated_duration": 8.91,
+      "actual_audio_duration": 8.911,
+      "visual_action": "The presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "left_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Entrepreneurship is the process of identifying a problem or an unmet need, and creating a solution that delivers value to people.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_006.wav",
+      "clip_durations": [
+        6.0,
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "41fab3d7440a97317b08825a9fe8b04a89f9d1f03df2c01ce056ed46cc1aacb1",
+      "audio_sha": "41fab3d7440a97317b08825a9fe8b04a89f9d1f03df2c01ce056ed46cc1aacb1",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_007",
+      "text": "An entrepreneur is someone who takes the initiative to make that happen.",
+      "units": [
+        "An entrepreneur is someone who takes the initiative to make that happen."
+      ],
+      "estimated_duration": 4.03,
+      "actual_audio_duration": 4.029,
+      "visual_action": "The presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "both_hands",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"An entrepreneur is someone who takes the initiative to make that happen.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_007.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "a5692d59dc578b551198856dd5e8ff56159081d11387e78b980d5ff479550531",
+      "audio_sha": "a5692d59dc578b551198856dd5e8ff56159081d11387e78b980d5ff479550531",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_008",
+      "text": "Notice what this definition does not say. It does not say you need a large amount of money.",
+      "units": [
+        "Notice what this definition does not say.",
+        "It does not say you need a large amount of money."
+      ],
+      "estimated_duration": 5.74,
+      "actual_audio_duration": 5.741,
+      "visual_action": "The presenter leans forward very slightly to engage the viewer, then settles back. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "forward_lean",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter leans forward very slightly to engage the viewer, then settles back. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Notice what this definition does not say. It does not say you need a large amount of money.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_008.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "f4df7403efb1c956b41bdd17eba7c7b29a6b43a36c8119ed3c1c2d5d7d5fee41",
+      "audio_sha": "f4df7403efb1c956b41bdd17eba7c7b29a6b43a36c8119ed3c1c2d5d7d5fee41",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_009",
+      "text": "It does not say you need a big company. And it does not say you need a completely new invention.",
+      "units": [
+        "It does not say you need a big company.",
+        "And it does not say you need a completely new invention."
+      ],
+      "estimated_duration": 6.16,
+      "actual_audio_duration": 6.16,
+      "visual_action": "The presenter shows subtle facial emphasis with gently raised eyebrows. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "facial_emphasis",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter shows subtle facial emphasis with gently raised eyebrows. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"It does not say you need a big company. And it does not say you need a completely new invention.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_009.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "71b493f6773a471e7bd7e6107af7a5e7711daadefc934f6719b719cf74dd713c",
+      "audio_sha": "71b493f6773a471e7bd7e6107af7a5e7711daadefc934f6719b719cf74dd713c",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_010",
+      "text": "At its heart, entrepreneurship is about noticing problems and doing something useful about them.",
+      "units": [
+        "At its heart, entrepreneurship is about noticing problems and doing something useful about them."
+      ],
+      "estimated_duration": 6.27,
+      "actual_audio_duration": 6.268,
+      "visual_action": "The presenter tilts the head slightly while explaining, with a thoughtful expression. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "head_tilt",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter tilts the head slightly while explaining, with a thoughtful expression. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"At its heart, entrepreneurship is about noticing problems and doing something useful about them.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_010.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "b7a1af7c2c887bcebae5eba2395c6de99fa910abc2a303662673677247ae9f1e",
+      "audio_sha": "b7a1af7c2c887bcebae5eba2395c6de99fa910abc2a303662673677247ae9f1e",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_011",
+      "text": "To understand this better, we will use a simple framework with four steps.",
+      "units": [
+        "To understand this better, we will use a simple framework with four steps."
+      ],
+      "estimated_duration": 4.42,
+      "actual_audio_duration": 4.42,
+      "visual_action": "The presenter counts off points with a small, controlled finger gesture. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "counting",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter counts off points with a small, controlled finger gesture. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"To understand this better, we will use a simple framework with four steps.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_011.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "e45ec779438815766349e9f3cacb1b6cf4202558febbd6ddaf62d21bcd9f3704",
+      "audio_sha": "e45ec779438815766349e9f3cacb1b6cf4202558febbd6ddaf62d21bcd9f3704",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_012",
+      "text": "Problem, opportunity, solution, and value.",
+      "units": [
+        "Problem, opportunity, solution, and value."
+      ],
+      "estimated_duration": 3.8,
+      "actual_audio_duration": 3.802,
+      "visual_action": "The presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "eye_contact",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Problem, opportunity, solution, and value.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_012.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "fd19e73c010d2d139e49f0e9aee72baea898825b5d7fb2c25477e895f4a24bf2",
+      "audio_sha": "fd19e73c010d2d139e49f0e9aee72baea898825b5d7fb2c25477e895f4a24bf2",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_013",
+      "text": "The first step is the problem. Every entrepreneurial journey starts with something that is not working well.",
+      "units": [
+        "The first step is the problem.",
+        "Every entrepreneurial journey starts with something that is not working well."
+      ],
+      "estimated_duration": 6.52,
+      "actual_audio_duration": 6.52,
+      "visual_action": "The presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "head_nod",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"The first step is the problem. Every entrepreneurial journey starts with something that is not working well.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_013.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "19f57d0b1cf25732fb4053260f4108b20e8b096b8d4d2a75677efe8b0cf7797c",
+      "audio_sha": "19f57d0b1cf25732fb4053260f4108b20e8b096b8d4d2a75677efe8b0cf7797c",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_014",
+      "text": "It might be a task that takes too long, or a product that costs too much. It might be a service that is difficult to access.",
+      "units": [
+        "It might be a task that takes too long, or a product that costs too much.",
+        "It might be a service that is difficult to access."
+      ],
+      "estimated_duration": 7.85,
+      "actual_audio_duration": 7.854,
+      "visual_action": "The presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "right_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"It might be a task that takes too long, or a product that costs too much. It might be a service that is difficult to access.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_014.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "36d2745f32dea08a9a691486c82463eff2a28d79957a6a0c7c47f679938a2d2a",
+      "audio_sha": "36d2745f32dea08a9a691486c82463eff2a28d79957a6a0c7c47f679938a2d2a",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_015",
+      "text": "Problems are everywhere, if you learn to look for them. The second step is the opportunity. Not every problem is an opportunity.",
+      "units": [
+        "Problems are everywhere, if you learn to look for them.",
+        "The second step is the opportunity.",
+        "Not every problem is an opportunity."
+      ],
+      "estimated_duration": 7.88,
+      "actual_audio_duration": 7.875,
+      "visual_action": "The presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "left_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Problems are everywhere, if you learn to look for them. The second step is the opportunity. Not every problem is an opportunity.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_015.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "86c3306369313b664edfd32b90b35b94a2463edd66cedba5e92f70dfe2fc3194",
+      "audio_sha": "86c3306369313b664edfd32b90b35b94a2463edd66cedba5e92f70dfe2fc3194",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_016",
+      "text": "A problem becomes an opportunity when many people experience it, when it matters to them,",
+      "units": [
+        "A problem becomes an opportunity when many people experience it, when it matters to them,"
+      ],
+      "estimated_duration": 5.8,
+      "actual_audio_duration": 5.804,
+      "visual_action": "The presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "both_hands",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"A problem becomes an opportunity when many people experience it, when it matters to them,\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_016.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "6ac6e134a3439b89e7507a65232a3c02f0d7537323b8379d586468f61edef90b",
+      "audio_sha": "6ac6e134a3439b89e7507a65232a3c02f0d7537323b8379d586468f61edef90b",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_017",
+      "text": "and when they would welcome a better way. In other words, an opportunity is a problem worth solving.",
+      "units": [
+        "and when they would welcome a better way.",
+        "In other words, an opportunity is a problem worth solving."
+      ],
+      "estimated_duration": 5.96,
+      "actual_audio_duration": 5.959,
+      "visual_action": "The presenter leans forward very slightly to engage the viewer, then settles back. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "forward_lean",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter leans forward very slightly to engage the viewer, then settles back. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"and when they would welcome a better way. In other words, an opportunity is a problem worth solving.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_017.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "4e0eb7f4889d497001cf7e0e2e5330ef922b8dd1fac2cf56949b7069bad77621",
+      "audio_sha": "4e0eb7f4889d497001cf7e0e2e5330ef922b8dd1fac2cf56949b7069bad77621",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_018",
+      "text": "The third step is the solution. This is the product, service, or process that addresses the problem.",
+      "units": [
+        "The third step is the solution.",
+        "This is the product, service, or process that addresses the problem."
+      ],
+      "estimated_duration": 7.15,
+      "actual_audio_duration": 7.147,
+      "visual_action": "The presenter shows subtle facial emphasis with gently raised eyebrows. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "facial_emphasis",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter shows subtle facial emphasis with gently raised eyebrows. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"The third step is the solution. This is the product, service, or process that addresses the problem.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_018.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "fe67acd5390f8897872704c47381f431b9f673d58e299c3cfa84d1fc276708df",
+      "audio_sha": "fe67acd5390f8897872704c47381f431b9f673d58e299c3cfa84d1fc276708df",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_019",
+      "text": "A good solution is not just clever. It is practical and affordable, and it genuinely makes people's lives easier.",
+      "units": [
+        "A good solution is not just clever.",
+        "It is practical and affordable, and it genuinely makes people's lives easier."
+      ],
+      "estimated_duration": 7.5,
+      "actual_audio_duration": 7.499,
+      "visual_action": "The presenter tilts the head slightly while explaining, with a thoughtful expression. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "head_tilt",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter tilts the head slightly while explaining, with a thoughtful expression. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"A good solution is not just clever. It is practical and affordable, and it genuinely makes people's lives easier.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_019.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "743f9faf5cbc780e3765d361a0740c9f83f36da4b850ce4fd52e4ad8c2e177c8",
+      "audio_sha": "743f9faf5cbc780e3765d361a0740c9f83f36da4b850ce4fd52e4ad8c2e177c8",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_020",
+      "text": "The fourth step is value. Value is the benefit people receive from the solution.",
+      "units": [
+        "The fourth step is value.",
+        "Value is the benefit people receive from the solution."
+      ],
+      "estimated_duration": 5.69,
+      "actual_audio_duration": 5.695,
+      "visual_action": "The presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "eye_contact",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"The fourth step is value. Value is the benefit people receive from the solution.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_020.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "279deca0e530eda8b8834a84b1afa119edbecc1a177d6d4363dcca4cc7b0dbb3",
+      "audio_sha": "279deca0e530eda8b8834a84b1afa119edbecc1a177d6d4363dcca4cc7b0dbb3",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_021",
+      "text": "It might save them time, save them money, or reduce their stress.",
+      "units": [
+        "It might save them time, save them money, or reduce their stress."
+      ],
+      "estimated_duration": 4.15,
+      "actual_audio_duration": 4.152,
+      "visual_action": "The presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "head_nod",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"It might save them time, save them money, or reduce their stress.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_021.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "d77b2996109bb41ea6e117fc2275a9beecc2a1e9403b7140f8d604c298eefb29",
+      "audio_sha": "d77b2996109bb41ea6e117fc2275a9beecc2a1e9403b7140f8d604c298eefb29",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_022",
+      "text": "When a solution creates real value, people will pay for it, use it, and recommend it.",
+      "units": [
+        "When a solution creates real value, people will pay for it, use it, and recommend it."
+      ],
+      "estimated_duration": 5.6,
+      "actual_audio_duration": 5.603,
+      "visual_action": "The presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "right_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"When a solution creates real value, people will pay for it, use it, and recommend it.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_022.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "db316c2bee640be44a7477170c2f3a84e80917b4771b72bfb7cc7c9e6ab36d99",
+      "audio_sha": "db316c2bee640be44a7477170c2f3a84e80917b4771b72bfb7cc7c9e6ab36d99",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_023",
+      "text": "Let's look at an example. Think about how difficult it once was to find a taxi late at night.",
+      "units": [
+        "Let's look at an example.",
+        "Think about how difficult it once was to find a taxi late at night."
+      ],
+      "estimated_duration": 5.89,
+      "actual_audio_duration": 5.893,
+      "visual_action": "The presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "left_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Let's look at an example. Think about how difficult it once was to find a taxi late at night.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_023.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "a84b3c73c49b3ebdc2f3ad3fb8d53013be133d2dc252bc276a24b081c5955169",
+      "audio_sha": "a84b3c73c49b3ebdc2f3ad3fb8d53013be133d2dc252bc276a24b081c5955169",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_024",
+      "text": "You had to stand on the street and hope that one would pass by. That was the problem.",
+      "units": [
+        "You had to stand on the street and hope that one would pass by.",
+        "That was the problem."
+      ],
+      "estimated_duration": 5.12,
+      "actual_audio_duration": 5.125,
+      "visual_action": "The presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "both_hands",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"You had to stand on the street and hope that one would pass by. That was the problem.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_024.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "4c843e007e3fc8c760e13503120fd5d2e6bb68f748b7e221379446b6cef97d3b",
+      "audio_sha": "4c843e007e3fc8c760e13503120fd5d2e6bb68f748b7e221379446b6cef97d3b",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_025",
+      "text": "Millions of people faced it every day, so it was a real opportunity.",
+      "units": [
+        "Millions of people faced it every day, so it was a real opportunity."
+      ],
+      "estimated_duration": 4.43,
+      "actual_audio_duration": 4.426,
+      "visual_action": "The presenter leans forward very slightly to engage the viewer, then settles back. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "forward_lean",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter leans forward very slightly to engage the viewer, then settles back. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Millions of people faced it every day, so it was a real opportunity.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_025.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "619f0ca5ba0f1203d68f5a2d972af65c3ae46a934da6240c7b22927ef3e7a4b6",
+      "audio_sha": "619f0ca5ba0f1203d68f5a2d972af65c3ae46a934da6240c7b22927ef3e7a4b6",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_026",
+      "text": "Ride hailing apps offered a solution by connecting riders and drivers through a smartphone.",
+      "units": [
+        "Ride hailing apps offered a solution by connecting riders and drivers through a smartphone."
+      ],
+      "estimated_duration": 5.8,
+      "actual_audio_duration": 5.798,
+      "visual_action": "The presenter shows subtle facial emphasis with gently raised eyebrows. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "facial_emphasis",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter shows subtle facial emphasis with gently raised eyebrows. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Ride hailing apps offered a solution by connecting riders and drivers through a smartphone.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_026.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "0a45109f0f2b884c3b4b96c036dad1f928c396b7a0f1f025d0d10fba9e7e47e4",
+      "audio_sha": "0a45109f0f2b884c3b4b96c036dad1f928c396b7a0f1f025d0d10fba9e7e47e4",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_027",
+      "text": "The value was convenience, safety, and predictability.",
+      "units": [
+        "The value was convenience, safety, and predictability."
+      ],
+      "estimated_duration": 3.73,
+      "actual_audio_duration": 3.731,
+      "visual_action": "The presenter tilts the head slightly while explaining, with a thoughtful expression. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "head_tilt",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter tilts the head slightly while explaining, with a thoughtful expression. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"The value was convenience, safety, and predictability.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_027.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "5eeff7648ef2df2c3c8c4deb097292ed38df8f0599d7eb8302243c450576a3ea",
+      "audio_sha": "5eeff7648ef2df2c3c8c4deb097292ed38df8f0599d7eb8302243c450576a3ea",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_028",
+      "text": "Here is a smaller example. A student notices that classmates struggle to find healthy, affordable lunches near campus.",
+      "units": [
+        "Here is a smaller example.",
+        "A student notices that classmates struggle to find healthy, affordable lunches near campus."
+      ],
+      "estimated_duration": 7.53,
+      "actual_audio_duration": 7.534,
+      "visual_action": "The presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "eye_contact",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Here is a smaller example. A student notices that classmates struggle to find healthy, affordable lunches near campus.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_028.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "757d7bf236443156b5094b0dc17eb8f7dad4e8c6c20915bca319e9e25076104a",
+      "audio_sha": "757d7bf236443156b5094b0dc17eb8f7dad4e8c6c20915bca319e9e25076104a",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_029",
+      "text": "She starts preparing simple meal boxes and takes orders through a messaging group.",
+      "units": [
+        "She starts preparing simple meal boxes and takes orders through a messaging group."
+      ],
+      "estimated_duration": 5.17,
+      "actual_audio_duration": 5.175,
+      "visual_action": "The presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "head_nod",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"She starts preparing simple meal boxes and takes orders through a messaging group.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_029.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "65e6c930880e6aa08c8b91a9b155c04bfe07d32b7e49894de2d7810278424be6",
+      "audio_sha": "65e6c930880e6aa08c8b91a9b155c04bfe07d32b7e49894de2d7810278424be6",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_030",
+      "text": "The problem is clear, and the need is real. The solution is simple, and the value is obvious. That is entrepreneurship too.",
+      "units": [
+        "The problem is clear, and the need is real.",
+        "The solution is simple, and the value is obvious.",
+        "That is entrepreneurship too."
+      ],
+      "estimated_duration": 7.7,
+      "actual_audio_duration": 7.703,
+      "visual_action": "The presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "right_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"The problem is clear, and the need is real. The solution is simple, and the value is obvious. That is entrepreneurship too.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_030.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "2cf30ef8874d30a98d9cf85c5945ecd957667f8971e1e0b873367a348593d9d2",
+      "audio_sha": "2cf30ef8874d30a98d9cf85c5945ecd957667f8971e1e0b873367a348593d9d2",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_031",
+      "text": "So why does entrepreneurship matter? There are four important reasons.",
+      "units": [
+        "So why does entrepreneurship matter?",
+        "There are four important reasons."
+      ],
+      "estimated_duration": 4.06,
+      "actual_audio_duration": 4.057,
+      "visual_action": "The presenter counts off points with a small, controlled finger gesture. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "counting",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter counts off points with a small, controlled finger gesture. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"So why does entrepreneurship matter? There are four important reasons.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_031.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "41c13ed93fc5b31c64433d9b1d3ead4e1839e32a6350c75bbfbbb96a8e48ac38",
+      "audio_sha": "41c13ed93fc5b31c64433d9b1d3ead4e1839e32a6350c75bbfbbb96a8e48ac38",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_032",
+      "text": "First, entrepreneurship drives innovation. New ideas often begin when someone asks, is there a better way?",
+      "units": [
+        "First, entrepreneurship drives innovation.",
+        "New ideas often begin when someone asks, is there a better way?"
+      ],
+      "estimated_duration": 7.57,
+      "actual_audio_duration": 7.572,
+      "visual_action": "The presenter tilts the head slightly with an inquisitive expression, open palm gesture. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "question",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter tilts the head slightly with an inquisitive expression, open palm gesture. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"First, entrepreneurship drives innovation. New ideas often begin when someone asks, is there a better way?\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_032.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "c995ca0587b18c519a875fea61014041722747671d2d5cb206dfd54ca26984b6",
+      "audio_sha": "c995ca0587b18c519a875fea61014041722747671d2d5cb206dfd54ca26984b6",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_033",
+      "text": "Second, entrepreneurship creates jobs and growth.",
+      "units": [
+        "Second, entrepreneurship creates jobs and growth."
+      ],
+      "estimated_duration": 4.09,
+      "actual_audio_duration": 4.087,
+      "visual_action": "The presenter counts off points with a small, controlled finger gesture. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "counting",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter counts off points with a small, controlled finger gesture. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Second, entrepreneurship creates jobs and growth.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_033.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "59acb8cd88d999a57563bebca926b3c977f561ce6efe96afea794b2462db6231",
+      "audio_sha": "59acb8cd88d999a57563bebca926b3c977f561ce6efe96afea794b2462db6231",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_034",
+      "text": "Growing ventures hire people and support local suppliers.",
+      "units": [
+        "Growing ventures hire people and support local suppliers."
+      ],
+      "estimated_duration": 3.75,
+      "actual_audio_duration": 3.752,
+      "visual_action": "The presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "left_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Growing ventures hire people and support local suppliers.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_034.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "594c9e45cf453c55ddde0847c963622548392d0eacfab7a862bd2934eabcc176",
+      "audio_sha": "594c9e45cf453c55ddde0847c963622548392d0eacfab7a862bd2934eabcc176",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_035",
+      "text": "Third, it helps solve social problems. Many entrepreneurs work on clean water, education, and healthcare.",
+      "units": [
+        "Third, it helps solve social problems.",
+        "Many entrepreneurs work on clean water, education, and healthcare."
+      ],
+      "estimated_duration": 7.89,
+      "actual_audio_duration": 7.888,
+      "visual_action": "The presenter counts off points with a small, controlled finger gesture. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "counting",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter counts off points with a small, controlled finger gesture. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Third, it helps solve social problems. Many entrepreneurs work on clean water, education, and healthcare.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_035.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "c260e631a1c1c9da48d61d98c4c2396bb857fb73688f7d6b7d88aa25dd18d208",
+      "audio_sha": "c260e631a1c1c9da48d61d98c4c2396bb857fb73688f7d6b7d88aa25dd18d208",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_036",
+      "text": "Finally, it builds valuable personal skills.",
+      "units": [
+        "Finally, it builds valuable personal skills."
+      ],
+      "estimated_duration": 3.16,
+      "actual_audio_duration": 3.157,
+      "visual_action": "The presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "both_hands",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Finally, it builds valuable personal skills.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_036.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "b1faf99dccafad5de802ae2a5e46597b85bc1748ed912c2c4b7009c56c20ee27",
+      "audio_sha": "b1faf99dccafad5de802ae2a5e46597b85bc1748ed912c2c4b7009c56c20ee27",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_037",
+      "text": "Even if you never start a company, thinking like an entrepreneur helps in any career.",
+      "units": [
+        "Even if you never start a company, thinking like an entrepreneur helps in any career."
+      ],
+      "estimated_duration": 5.32,
+      "actual_audio_duration": 5.317,
+      "visual_action": "The presenter makes a small emphatic hand gesture with a subtle forward lean. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "emphasis",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a small emphatic hand gesture with a subtle forward lean. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Even if you never start a company, thinking like an entrepreneur helps in any career.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_037.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "3e4dec55f593dd71654b683cccb8f055e0fab18da46518894ea92af9d60f9828",
+      "audio_sha": "3e4dec55f593dd71654b683cccb8f055e0fab18da46518894ea92af9d60f9828",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_038",
+      "text": "Let's bring everything together. Entrepreneurship is not only about starting a business.",
+      "units": [
+        "Let's bring everything together.",
+        "Entrepreneurship is not only about starting a business."
+      ],
+      "estimated_duration": 5.2,
+      "actual_audio_duration": 5.199,
+      "visual_action": "The presenter leans forward very slightly to engage the viewer, then settles back. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "forward_lean",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter leans forward very slightly to engage the viewer, then settles back. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Let's bring everything together. Entrepreneurship is not only about starting a business.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_038.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "9fc46cbaa7498a8170bb59fb4049d99388cf900148418ed00e8a25337a027233",
+      "audio_sha": "9fc46cbaa7498a8170bb59fb4049d99388cf900148418ed00e8a25337a027233",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_039",
+      "text": "It is a way of thinking. It begins with noticing a problem and recognising an opportunity.",
+      "units": [
+        "It is a way of thinking.",
+        "It begins with noticing a problem and recognising an opportunity."
+      ],
+      "estimated_duration": 5.58,
+      "actual_audio_duration": 5.583,
+      "visual_action": "The presenter shows subtle facial emphasis with gently raised eyebrows. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "facial_emphasis",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter shows subtle facial emphasis with gently raised eyebrows. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"It is a way of thinking. It begins with noticing a problem and recognising an opportunity.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_039.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "99bd4f151160f31bc576310ea736efed41d6bc4bba25b62f97e2b8e0ce502258",
+      "audio_sha": "99bd4f151160f31bc576310ea736efed41d6bc4bba25b62f97e2b8e0ce502258",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_040",
+      "text": "It continues with designing a solution that creates value for others.",
+      "units": [
+        "It continues with designing a solution that creates value for others."
+      ],
+      "estimated_duration": 4.2,
+      "actual_audio_duration": 4.202,
+      "visual_action": "The presenter tilts the head slightly while explaining, with a thoughtful expression. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "head_tilt",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter tilts the head slightly while explaining, with a thoughtful expression. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"It continues with designing a solution that creates value for others.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_040.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "4912244186b7b09a14dfd38720b2c7d36d2f7867ad4f3bf4ce0391eeb6795c87",
+      "audio_sha": "4912244186b7b09a14dfd38720b2c7d36d2f7867ad4f3bf4ce0391eeb6795c87",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_041",
+      "text": "Remember this simple chain. Problem, opportunity, solution, value.",
+      "units": [
+        "Remember this simple chain.",
+        "Problem, opportunity, solution, value."
+      ],
+      "estimated_duration": 5.22,
+      "actual_audio_duration": 5.216,
+      "visual_action": "The presenter makes a small emphatic hand gesture with a subtle forward lean. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "emphasis",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a small emphatic hand gesture with a subtle forward lean. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Remember this simple chain. Problem, opportunity, solution, value.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_041.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "94502b62cb9bc75023460b2b1c29d029d4792e779d0b2b9f19f5ffdf01aa94dd",
+      "audio_sha": "94502b62cb9bc75023460b2b1c29d029d4792e779d0b2b9f19f5ffdf01aa94dd",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_042",
+      "text": "We will return to it again and again throughout this course. Now it is your turn.",
+      "units": [
+        "We will return to it again and again throughout this course.",
+        "Now it is your turn."
+      ],
+      "estimated_duration": 4.65,
+      "actual_audio_duration": 4.646,
+      "visual_action": "The presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "eye_contact",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter maintains warm, natural eye contact with the camera; relaxed hands resting together. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"We will return to it again and again throughout this course. Now it is your turn.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_042.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "6caab65b8962519cb6222cdc02d0bd175b04c1fe90a463017b2a9e1c7fe35147",
+      "audio_sha": "6caab65b8962519cb6222cdc02d0bd175b04c1fe90a463017b2a9e1c7fe35147",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_043",
+      "text": "Over the next day, pay close attention to your daily routine, and identify one everyday problem you notice.",
+      "units": [
+        "Over the next day, pay close attention to your daily routine, and identify one everyday problem you notice."
+      ],
+      "estimated_duration": 7.23,
+      "actual_audio_duration": 7.23,
+      "visual_action": "The presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "head_nod",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter gives a small, affirming head nod while speaking. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Over the next day, pay close attention to your daily routine, and identify one everyday problem you notice.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_043.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "f40215da9a2cdadb6b599eaff0d22e464eec6edc333824a5a03515ed5f8f2635",
+      "audio_sha": "f40215da9a2cdadb6b599eaff0d22e464eec6edc333824a5a03515ed5f8f2635",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_044",
+      "text": "It could be at home, at work, in your community, or on your way to class.",
+      "units": [
+        "It could be at home, at work, in your community, or on your way to class."
+      ],
+      "estimated_duration": 5.03,
+      "actual_audio_duration": 5.034,
+      "visual_action": "The presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "right_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a slight explanatory gesture with the right hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"It could be at home, at work, in your community, or on your way to class.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_044.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "8099b432732b1d4bd8242265a498cf2a5895e6416e5be9a8cc1dfe657b22450a",
+      "audio_sha": "8099b432732b1d4bd8242265a498cf2a5895e6416e5be9a8cc1dfe657b22450a",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_045",
+      "text": "Write it down, and ask yourself who else experiences this problem.",
+      "units": [
+        "Write it down, and ask yourself who else experiences this problem."
+      ],
+      "estimated_duration": 4.28,
+      "actual_audio_duration": 4.282,
+      "visual_action": "The presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "left_hand",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter makes a small open-palm gesture with the left hand, then lowers it. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Write it down, and ask yourself who else experiences this problem.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_045.wav",
+      "clip_durations": [
+        6.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "aa711828f4255a5dfd11ab85a75ef7f32c01e448fd0d927ba012945c1c7570b9",
+      "audio_sha": "aa711828f4255a5dfd11ab85a75ef7f32c01e448fd0d927ba012945c1c7570b9",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_046",
+      "text": "That simple habit is the first step toward thinking like an entrepreneur.",
+      "units": [
+        "That simple habit is the first step toward thinking like an entrepreneur."
+      ],
+      "estimated_duration": 4.24,
+      "actual_audio_duration": 4.244,
+      "visual_action": "The presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "both_hands",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter uses a small two-handed explanatory gesture in front of the chest. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"That simple habit is the first step toward thinking like an entrepreneur.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_046.wav",
+      "clip_durations": [
+        4.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "59531f1661d2fb8fb8b7e9cdce8b436dec087dd56c3dc3197e117b87cfbcdc73",
+      "audio_sha": "59531f1661d2fb8fb8b7e9cdce8b436dec087dd56c3dc3197e117b87cfbcdc73",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    },
+    {
+      "id": "scene_047",
+      "text": "Thank you for joining me for this lesson. In the next video, we will explore who an entrepreneur really is. See you there.",
+      "units": [
+        "Thank you for joining me for this lesson.",
+        "In the next video, we will explore who an entrepreneur really is.",
+        "See you there."
+      ],
+      "estimated_duration": 7.08,
+      "actual_audio_duration": 7.083,
+      "visual_action": "The presenter gives a warm closing smile and a small nod, hands resting calmly. Returns to the neutral seated presenter posture by the end of the clip.",
+      "gesture": "closing",
+      "camera": "static",
+      "generation_prompt": "Use the supplied presenter image as the first frame and as the primary identity and visual reference.\n\nMaintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.\n\nPresenter: a professional male presenter in his forties, seated in a cream boucle armchair. Clothing: dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes. Hair: short dark hair, neatly combed back. Setting: modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp. Lighting: soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field. Framing: medium shot from mid-thigh up, presenter centered, front-facing, eye level, static locked-off camera.\n\nCreate a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.\n\nMovement should be subtle and realistic:\n- natural blinking\n- natural breathing\n- natural mouth movement while speaking\n- subtle facial expressions\n- small head movements\n- subtle posture movement\n- occasional natural hand gestures, kept close to the body\n\nPresenter action for this clip:\nThe presenter gives a warm closing smile and a small nod, hands resting calmly. Returns to the neutral seated presenter posture by the end of the clip.\n\nThe presenter says: \"Thank you for joining me for this lesson. In the next video, we will explore who an entrepreneur really is. See you there.\"\n\nCamera: static, locked-off, front-facing, no zoom, no pan, no cuts.\n\nDo not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.",
+      "audio_file": "audio/scene_047.wav",
+      "clip_durations": [
+        8.0
+      ],
+      "video_files": [],
+      "rendered_file": "",
+      "rendered_duration": null,
+      "sync": null,
+      "status": "audio_complete",
+      "error": null,
+      "text_sha": "a66c95bbeca92ce03be17309ee311ad439e08dae4b10fb091b8e483bdbec6d21",
+      "audio_sha": "a66c95bbeca92ce03be17309ee311ad439e08dae4b10fb091b8e483bdbec6d21",
+      "audio_trim": "-45|0.03|0.12",
+      "render_fingerprint": null
+    }
+  ],
+  "updated": "2026-09-30T10:18:42"
+}

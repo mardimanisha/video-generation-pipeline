@@ -1,0 +1,30 @@
+{
+  "_comment": "Derived from 'sample video.mp4'. presenter.jpg here is a frame from that sample; replace it with your master presenter image (same framing).",
+  "identity": {
+    "reference_image": "presenter.jpg"
+  },
+  "appearance": {
+    "clothing": "dark navy suit jacket, crisp white shirt, navy tie with diagonal orange stripes",
+    "hairstyle": "short dark hair, neatly combed back",
+    "general_description": "a professional male presenter in his forties, seated in a cream boucle armchair"
+  },
+  "composition": {
+    "aspect_ratio": "16:9",
+    "shot": "medium shot from mid-thigh up, presenter centered",
+    "camera_position": "front-facing, eye level",
+    "camera_motion": "static locked-off camera"
+  },
+  "environment": {
+    "background": "modern studio with a vertical warm-lit wooden slat wall, a potted areca palm on the left, and a backlit dark shelf on the right with a white ring vase, books, a small plant and a glowing glass table lamp",
+    "lighting": "soft warm key light on the face, warm amber practical lighting in the background, shallow depth of field",
+    "style": "professional educational studio"
+  },
+  "motion": {
+    "intensity": "subtle",
+    "head_movement": true,
+    "eye_movement": true,
+    "blinking": true,
+    "hand_gestures": true,
+    "body_movement": true
+  }
+}

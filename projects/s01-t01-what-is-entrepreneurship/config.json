@@ -1,0 +1,21 @@
+{
+  "title": "Session 1 - Topic 1: What Is Entrepreneurship?",
+  "presenter": "presenter_01",
+  "overrides": {
+    "planning": {
+      "measure_with_tts": true,
+      "words_per_second": 3.0,
+      "target_scene_duration": 7.2,
+      "max_scene_duration": 8.0,
+      "min_scene_duration": 4.5,
+      "scene_cost": 25,
+      "paragraph_penalty": 30
+    },
+    "generation": {
+      "provider": "flow"
+    },
+    "sync": {
+      "mode": "lip_voice"
+    }
+  }
+}

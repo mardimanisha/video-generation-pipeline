@@ -1,0 +1,25 @@
+Use the supplied presenter image as the first frame and as the primary identity and visual reference.
+
+Maintain the exact same presenter identity, facial appearance, hairstyle, clothing, environment, lighting, camera position and framing throughout the clip.
+
+{{PRESENTER_DESCRIPTION}}
+
+Create a realistic professional educational presenter video. The presenter is seated, faces the camera and is speaking directly to the viewer in a calm, confident teaching manner.
+
+Movement should be subtle and realistic:
+- natural blinking
+- natural breathing
+- natural mouth movement while speaking
+- subtle facial expressions
+- small head movements
+- subtle posture movement
+- occasional natural hand gestures, kept close to the body
+
+Presenter action for this clip:
+{{VISUAL_ACTION}}
+
+{{DIALOGUE}}
+
+Camera: static, locked-off, front-facing, no zoom, no pan, no cuts.
+
+Do not introduce dramatic movement. Do not change the presenter's identity. Do not change clothing. Do not change the background. Do not change camera position. Do not introduce additional people. Do not introduce unnecessary objects. Do not create cinematic camera movement. No music, no captions, no on-screen text.

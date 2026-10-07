@@ -1,0 +1,9 @@
+pydantic>=2.6
+python-dotenv>=1.0
+requests>=2.31
+# verify HTTPS against the Windows certificate store (needed behind antivirus HTTPS scanning)
+truststore>=0.9
+# Veo video generation via the Gemini API (only needed for --video-provider gemini)
+google-genai>=1.0
+# tests
+pytest>=8.0

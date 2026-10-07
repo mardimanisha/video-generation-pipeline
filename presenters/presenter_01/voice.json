@@ -1,0 +1,26 @@
+{
+  "voice_id": "sunny-grape-3970__nomaan",
+  "provider": "inworld",
+  "language": "en-US",
+  "cloned_from": "existing clone in Inworld workspace sunny-grape-3970",
+  "created": "2026-09-29T18:31:26",
+  "previous_voice_ids": [
+    "balmy-stork-6424__presenter_01_voice"
+  ],
+  "alternate_voices": [
+    {
+      "voice_id": "sweet-comet-3721__presenter_01_voice",
+      "provider": "inworld",
+      "cloned_from": "voice_sample.wav",
+      "note": "clone in the second Inworld workspace; used for scenes the main voice could not voice",
+      "created": "2026-10-06T22:05:50"
+    },
+    {
+      "voice_id": "sweet-comet-3721__nooman",
+      "provider": "inworld",
+      "display_name": "Nooman",
+      "note": "user's Nooman clone in the second Inworld workspace",
+      "added": "2026-10-06T22:35:53"
+    }
+  ]
+}

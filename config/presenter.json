@@ -1,0 +1,30 @@
+{
+  "_comment": "Default presenter profile. Every presenter profile (presenters/<name>/presenter.json or a project's presenter.json) is deep-merged on top of this file. Leave appearance/environment empty when unknown: the reference image is the primary source of truth.",
+  "identity": {
+    "reference_image": "presenter.jpg"
+  },
+  "appearance": {
+    "clothing": "",
+    "hairstyle": "",
+    "general_description": ""
+  },
+  "composition": {
+    "aspect_ratio": "16:9",
+    "shot": "medium shot, waist up",
+    "camera_position": "front-facing, eye level",
+    "camera_motion": "static locked-off camera"
+  },
+  "environment": {
+    "background": "",
+    "lighting": "",
+    "style": "professional educational studio"
+  },
+  "motion": {
+    "intensity": "subtle",
+    "head_movement": true,
+    "eye_movement": true,
+    "blinking": true,
+    "hand_gestures": true,
+    "body_movement": true
+  }
+}

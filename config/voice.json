@@ -1,0 +1,6 @@
+{
+  "_comment": "Default voice settings. A presenter's own voice.json (which stores the cloned voice_id) is merged on top of this file.",
+  "voice_id": "",
+  "provider": "inworld",
+  "language": "en-US"
+}

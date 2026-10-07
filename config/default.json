@@ -1,0 +1,64 @@
+{
+  "video": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "codec": "libx264",
+    "crf": 18,
+    "preset": "medium",
+    "pix_fmt": "yuv420p"
+  },
+  "audio": {
+    "provider": "inworld",
+    "sample_rate": 48000,
+    "channels": 1,
+    "codec": "aac",
+    "bitrate": "192k",
+    "tail_padding": 0.2
+  },
+  "generation": {
+    "provider": "gemini",
+    "max_clip_duration": 8,
+    "preferred_clip_duration": 8,
+    "allowed_durations": [4, 6, 8],
+    "aspect_ratio": "16:9"
+  },
+  "planning": {
+    "words_per_second": 2.5,
+    "target_scene_duration": 7.0,
+    "max_scene_duration": 8.5,
+    "min_scene_duration": 2.5
+  },
+  "sync": {
+    "max_speedup": 1.15,
+    "max_slowdown": 0.9
+  },
+  "continuity": {
+    "enabled": true,
+    "anchor_last_frame": true,
+    "use_previous_clip_reference": true
+  },
+  "retry": {
+    "max_attempts": 3,
+    "backoff_seconds": [5, 15, 45]
+  },
+  "inworld": {
+    "model_id": "inworld-tts-2",
+    "speaking_rate": 1.0,
+    "temperature": 1.0,
+    "timeout_seconds": 120
+  },
+  "gemini": {
+    "model": "veo-3.1-generate-preview",
+    "resolution": "720p",
+    "include_dialogue_in_prompt": true,
+    "negative_prompt": "camera movement, zoom, cuts, scene change, extra people, text overlays, subtitles, music, exaggerated gestures, walking, standing up, changing clothes, changing background",
+    "person_generation": null,
+    "poll_interval_seconds": 10,
+    "timeout_seconds": 900
+  },
+  "qa": {
+    "duration_tolerance": 0.1,
+    "max_frozen_padding": 0.3
+  }
+}

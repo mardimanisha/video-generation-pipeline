@@ -1,0 +1,8 @@
+{
+  "title": "Demo Lesson - Compound Interest",
+  "presenter": "presenter_01",
+  "overrides": {
+    "audio": { "provider": "mock" },
+    "generation": { "provider": "mock" }
+  }
+}
